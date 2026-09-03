@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# logs & states
+trading_log_*.txt
+watchdog_log_*.txt
+auto_trader_state_*.json
+
+# environment variables
+.env
